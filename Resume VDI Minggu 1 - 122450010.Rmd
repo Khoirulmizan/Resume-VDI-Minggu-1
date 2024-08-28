@@ -1,0 +1,18 @@
+---
+title: "Resume VDI 1"
+author: "Khoirul Mizan Abdullah"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+#### Khoirul Mizan Abdullah (122450010 / VDI RA) - Resume 1
+
+# Visualisasi Data
+
+**Visualisasi data adalah proses mengubah data mentah menjadi bentuk visual, informasi yang terkandung di dalamnya disampaikan melalui gambar atau ilustrasi yang mudah dimengerti oleh manusia yang merupakan makhluk visual. Saat ini, banyak perusahaan menggunakan data untuk memperoleh informasi yang penting bagi keberlangsungan bisnis mereka. Oleh karena itu, para ahli di bidang data kini dihadapkan pada tantangan untuk menciptakan visualisasi yang efektif dalam menyampaikan informasi dan juga efisien dalam penggunaannya. Hal ini menunjukkan bagaimana visualisasi data telah berkembang pesat dan menjadi alat yang sangat penting dalam berbagai bidang keilmuan.**
+
+**Spesifikasi visualisasi adalah proses menentukan cara data ditampilkan secara visual, melibatkan berbagai bahasa dan alat untuk mengatur elemen-elemen seperti jenis grafik dan transformasi data. Pendekatan yang digunakan bisa bervariasi, dari yang membutuhkan pemahaman teknis mendalam hingga alat berbasis GUI yang lebih mudah digunakan, dengan tantangan utama menciptakan keseimbangan antara fleksibilitas dan kemudahan penggunaan. Untuk meningkatkan efisiensi visualisasi data, query visualisasi dapat diterjemahkan ke dalam SQL, memanfaatkan sistem database yang sudah ada untuk pemrosesan data lebih cepat. Selain itu, integrasi dengan DBMS, penggunaan penyimpanan berbasis kolom, dan komputasi paralel juga membantu mempercepat akses dan pemrosesan data, memberikan respons yang lebih cepat kepada pengguna.**
+
+**Visualisasi data perkiraan adalah solusi untuk menangani data dengan volume yang sangat besar dan kompleks, tampilannya interaktif dan integrasinya cepat tanpa harus memproses seluruh dataset. Dengan teknik seperti *Approximate Query Processing* (AQP) dan sampling incremental, sistem dapat menampilkan visualisasi yang cukup akurat dan terus diperbaiki seiring waktu, sambil menghemat sumber daya dengan memanfaatkan persepsi manusia untuk menentukan kapan hasilnya dirasa sudah cukup baik.**
+
+**Sistem rekomendasi visualisasi seperti Draco, Data2Vis, dan Rank-by-feature memudahkan pengguna yang kurang familiar dengan data untuk menjelajahi data yang banyak dengan cepat. Sebagian besar sistem ini memerlukan input dari pengguna, seperti diperlukannya kata kunci untuk memberikan visualisasi yang tepat. Metode berbasis aturan (*rule-based approaches*) mudah dipahami, tetapi mungkin kadang tidak cocok dengan presepsi manusia. Sementara itu, metode pembelajaran mesin (*machine learning-based methods*) bisa menangkap efektivitas visualisasi dengan lebih baik, meskipun hasilnya mungkin sering sulit dipahami. Ada juga rekomendasi berbasis perilaku dan referensi (*behaviour-based*), yang bermanfaat tetapi memiliki keterbatasan masing-masing.**
